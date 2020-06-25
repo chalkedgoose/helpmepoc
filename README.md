@@ -1,6 +1,6 @@
 # Help Me POC
 
-Staging app: https://gallant-ride-34b413.netlify.app/
+Staging app: https://condescending-bell-31048a.netlify.app
 
 [![gitlocalized ](https://gitlocalize.com/repo/4905/whole_project/badge.svg)](https://gitlocalize.com/repo/4905/whole_project?utm_source=badge)
 

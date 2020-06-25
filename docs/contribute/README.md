@@ -4,16 +4,23 @@ The project is open source and under MIT license. You can contribute by cloning 
 
 ## Our wonderful contributors
 
-<a href="https://www.github.com/csumm">
+<a href="https://www.github.com/calba5141114">
 <img 
-src="../.vuepress/public/images/carlgithub.png"
+src="../.vuepress/public/images/carlos.jpeg"
 width="150px"
 height="150px"
 />
 </a>
-<a href="https://www.github.com/calba5141114">
+<a href="https://github.com/Drabblesaur">
 <img 
-src="../.vuepress/public/images/carlos.jpeg"
+ src="../.vuepress/public/images/johnny.jpeg"
+ width="150px"
+height="150px"
+/>
+</a>
+<a href="https://www.github.com/csumm">
+<img 
+src="../.vuepress/public/images/carlgithub.png"
 width="150px"
 height="150px"
 />
